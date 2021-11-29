@@ -23,8 +23,9 @@
     "css-loader": "0.28.4",
     "express": "4.15.4",
     "extract-text-webpack-plugin": "3.0.0",
+    "firebase": "4.2.0",
     "moment": "2.18.1",
-    "node-sass": "^6.0.1",
+    "node-sass": "4.5.3",
     "normalize.css": "7.0.0",
     "numeral": "2.0.6",
     "react": "15.6.1",
@@ -37,11 +38,11 @@
     "redux": "3.7.2",
     "redux-mock-store": "1.2.3",
     "redux-thunk": "2.2.0",
-    "sass-loader": "^12.3.0",
+    "sass-loader": "6.0.6",
     "style-loader": "0.18.2",
     "uuid": "3.1.0",
     "validator": "8.0.0",
-    "webpack": "^5.64.4"
+    "webpack": "3.1.0"
   },
   "devDependencies": {
     "cross-env": "5.0.5",
@@ -50,7 +51,6 @@
     "enzyme-to-json": "1.5.1",
     "jest": "20.0.4",
     "react-test-renderer": "15.6.1",
-    "webpack-cli": "^4.9.1",
     "webpack-dev-server": "2.5.1"
   }
 }

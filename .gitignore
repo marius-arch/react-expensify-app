@@ -1,4 +1,2 @@
 node_modules
 public/bdist/
-.env.test
-.env.development

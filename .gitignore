@@ -1,4 +1,4 @@
-node_modules/
-public/dist/
+node_modules
+public/bdist/
 .env.test
 .env.development
